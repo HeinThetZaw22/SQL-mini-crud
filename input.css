@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input:focus {
+ outline: 2px solid rgb(118, 118, 255) ;
+ border: none;
+}
+input{
+    border: 2px solid gray;
+}
